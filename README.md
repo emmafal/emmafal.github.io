@@ -1,5 +1,5 @@
 # Interactive resume of Emma Falkiewitz
-This interactive resume aims to be a plaisant journey through my skills, education and work experience. By using the keyboard arrows, it is possible to navigate between different sections.
+This [interactive resume](https://emmafal.github.io) aims to be a plaisant journey through my skills, education and work experience. By using the keyboard arrows, it is possible to navigate between different sections.
 
 Progress: Currently optimizing the interface to ensure compatibility across all screen sizes. The character movements and element placement may not be fullly accurate at the moment.
 
